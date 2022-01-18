@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8aPG8JOzNfhpz4J36BlhtM2ztqr5ejy84TIhAhyuK2fns1cTdoW8fsqw2iiDM6cxLHncgAcl4t5AFOf+a754zQ==",
+  "dgSpecHash": "ZUE5njeW6AKPvxXQ2qR5cc3czcRuSfDzAJn133cQhKqJxAJJbEbqa2ceCZ7Rd7Nc5+zdzvbN+/dQr+E+0VCx3g==",
   "success": true,
   "projectFilePath": "C:\\Users\\tiago\\Documents\\Payment\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\tiago\\.nuget\\packages\\flunt\\2.0.5\\flunt.2.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
