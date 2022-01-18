@@ -1,0 +1,15 @@
+C:\Users\tiago\Documents\Payment\PaymentContext.Domain\bin\Debug\net6.0\PaymentContext.Domain.deps.json
+C:\Users\tiago\Documents\Payment\PaymentContext.Domain\bin\Debug\net6.0\PaymentContext.Domain.dll
+C:\Users\tiago\Documents\Payment\PaymentContext.Domain\bin\Debug\net6.0\ref\PaymentContext.Domain.dll
+C:\Users\tiago\Documents\Payment\PaymentContext.Domain\bin\Debug\net6.0\PaymentContext.Domain.pdb
+C:\Users\tiago\Documents\Payment\PaymentContext.Domain\obj\Debug\net6.0\PaymentContext.Domain.csproj.AssemblyReference.cache
+C:\Users\tiago\Documents\Payment\PaymentContext.Domain\obj\Debug\net6.0\PaymentContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\Documents\Payment\PaymentContext.Domain\obj\Debug\net6.0\PaymentContext.Domain.AssemblyInfoInputs.cache
+C:\Users\tiago\Documents\Payment\PaymentContext.Domain\obj\Debug\net6.0\PaymentContext.Domain.AssemblyInfo.cs
+C:\Users\tiago\Documents\Payment\PaymentContext.Domain\obj\Debug\net6.0\PaymentContext.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tiago\Documents\Payment\PaymentContext.Domain\obj\Debug\net6.0\PaymentContext.Domain.dll
+C:\Users\tiago\Documents\Payment\PaymentContext.Domain\obj\Debug\net6.0\ref\PaymentContext.Domain.dll
+C:\Users\tiago\Documents\Payment\PaymentContext.Domain\obj\Debug\net6.0\PaymentContext.Domain.pdb
+C:\Users\tiago\Documents\Payment\PaymentContext.Domain\bin\Debug\net6.0\PaymentContext.Shared.dll
+C:\Users\tiago\Documents\Payment\PaymentContext.Domain\bin\Debug\net6.0\PaymentContext.Shared.pdb
+C:\Users\tiago\Documents\Payment\PaymentContext.Domain\obj\Debug\net6.0\PaymentContext.Domain.csproj.CopyComplete
