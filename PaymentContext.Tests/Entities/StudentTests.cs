@@ -9,10 +9,11 @@ public class StudentTests
     [TestMethod]
     public void AdicionarAssinatura()
     {
-        //var subscription = new Subscription(null);
-        //var student = new Student("Tiago","Mabango","132344798","tiagomabango@gmail.com");
-        //student.AddSubscription(subscription);
-
+        var name = new Name("Teste","Teste");
+        foreach (var not in name.Notifications)
+        {
+         not.Message   
+        }
 
     }
 }
