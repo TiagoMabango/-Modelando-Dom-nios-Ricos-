@@ -9,9 +9,25 @@ namespace  PaymentContext.Domain.ValueObject
         {
             Number = number;
             Type = type;
+
+            AddNotification(new Contract()
+                .Requires()
+                .IsTrue(Validate(),"Document.Number","Documento inválido!")
+            );
         }
 
         public string Number { get; private set; }
         public EDocumentType Type { get; private set; }
+
+        private bool Validate(){
+
+            if(Type == EDocumentType.CNPJ && Number.Length == "14")
+                return true;
+
+            if(Type == EDocumentType.CNPJ && Number.Length == "11")
+                return true;
+            
+            return false;
+        }
     }
 }
